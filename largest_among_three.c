@@ -1,3 +1,6 @@
+/* Author: Vijilee George Kurian 
+   Descrption:Program to find the largest among three number's
+   Date:28-01-2025 */
 #include<stdio.h>
 int main()
 {

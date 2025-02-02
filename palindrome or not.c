@@ -1,3 +1,7 @@
+/*Author:Vijilee George Kurian
+Decription:To check wheather a given number is palindrome or not
+Date:03-02-2025*/
+
 #include<stdio.h>
 int main()
 {

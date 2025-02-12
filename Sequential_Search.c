@@ -1,3 +1,7 @@
+/*Author:Vijilee George Kurian
+Description:To find a particular value in an array using sequential search
+date:11-02-2025*/
+
 #include<stdio.h>
 int main()
 {

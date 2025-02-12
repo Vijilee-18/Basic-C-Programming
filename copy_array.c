@@ -1,3 +1,7 @@
+/*Author:Vijilee George Kurian 
+Description:Copying the elements of one array to another
+date:12-02-2025*/
+
 #include<stdio.h>
 int main()
 {

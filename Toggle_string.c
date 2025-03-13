@@ -1,3 +1,6 @@
+/*Author:Vijilee George Kurain
+Description:program to convert upper case letter's into lower and vice versa of a string*/
+
 #include<stdio.h>
 int main()
 {

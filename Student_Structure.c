@@ -1,3 +1,7 @@
+/*Author:Vijilee George Kurian 
+Descrption:Program to find the total marks and  average of each student and total student using structure
+Date:03/04/2025*/
+
 #include<stdio.h>
 struct student
 {
